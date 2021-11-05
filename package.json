@@ -1,0 +1,21 @@
+{
+  "name": "pract_b4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "pract_b4"
+  },
+  "keywords": [
+    "b4"
+  ],
+  "author": "VVLipcanskij",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
